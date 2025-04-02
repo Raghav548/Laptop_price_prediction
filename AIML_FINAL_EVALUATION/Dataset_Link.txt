@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/jacksondivakarr/laptop-price-prediction-dataset -> Kaggle dataset link
+https://github.com/gokul911/AIML_Project -> Github link for dataset and project
